@@ -3,7 +3,7 @@
  */
 package tailormanagementsystem;
 
-class Customer {
+public class Customer {
     
     private String custName;
     private String custID;
